@@ -1,5 +1,5 @@
 # js-terminal-game
-Game uses JavaScript classes and functions to play a game in the command line terminal. Created using JavaScript and running program with Node.js. 
+Game uses JavaScript classes and functions to play a game in the command line terminal. Created using JavaScript and Node.js. 
 
 ## Objective
 The user must find the hat(^) by avoiding falling of the edge of the map or into the hole (0)
